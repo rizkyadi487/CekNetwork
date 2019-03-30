@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
   <Properties>
     <Property name="defaultCloseOperation" type="int" value="3"/>
   </Properties>
@@ -27,124 +27,42 @@
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="102" attributes="0">
-                              <Group type="103" groupAlignment="1" attributes="0">
-                                  <Group type="102" alignment="1" attributes="0">
-                                      <Component id="jTF_M1" min="-2" pref="32" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jTF_M2" min="-2" pref="32" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jTF_M3" min="-2" pref="32" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jTF_M4" min="-2" pref="32" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="1" attributes="0">
-                                      <Component id="jTF_S1" min="-2" pref="32" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jTF_S2" min="-2" pref="32" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jTF_S3" min="-2" pref="32" max="-2" attributes="0"/>
-                                      <EmptySpace min="-2" max="-2" attributes="0"/>
-                                      <Component id="jTF_S4" min="-2" pref="32" max="-2" attributes="0"/>
-                                  </Group>
-                              </Group>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jTF_M1" min="-2" pref="32" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jB_Cek" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              <Component id="jTF_M2" min="-2" pref="32" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jTF_M3" min="-2" pref="32" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jTF_M4" min="-2" pref="32" max="-2" attributes="0"/>
                           </Group>
-                          <Group type="102" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jTB_PC1" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC1" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC1" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jTB_PC2" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC2" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC2" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jTB_PC3" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC3" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC3" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jTB_PC4" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC4" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC4" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jTB_PC5" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC5" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC5" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                              </Group>
-                              <EmptySpace min="-2" pref="121" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <Component id="jTB_PC9" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC9" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC9" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" attributes="0">
-                                      <Component id="jTB_PC10" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC10" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC10" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="jTB_PC6" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC6" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC6" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" attributes="0">
-                                      <Component id="jTB_PC7" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC7" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC7" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" attributes="0">
-                                      <Component id="jTB_PC8" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="jLIP_PC8" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLS_PC8" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                              </Group>
-                              <EmptySpace pref="148" max="32767" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jTF_S1" min="-2" pref="32" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jTF_S2" min="-2" pref="32" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jTF_S3" min="-2" pref="32" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" max="-2" attributes="0"/>
+                              <Component id="jTF_S4" min="-2" pref="32" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jB_Cek" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jTextField1" min="-2" pref="74" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
                   </Group>
-                  <Group type="102" alignment="0" attributes="0">
+                  <Group type="102" attributes="0">
                       <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="32767" attributes="0"/>
                   </Group>
@@ -155,12 +73,23 @@
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="1" attributes="0">
-              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="jTF_M1" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
-                  <Component id="jTF_M2" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
-                  <Component id="jTF_M3" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
-                  <Component id="jTF_M4" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTF_M1" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="jTF_M2" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="jTF_M3" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="jTF_M4" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
@@ -170,101 +99,7 @@
                   <Component id="jTF_S4" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
                   <Component id="jB_Cek" alignment="3" min="-2" max="-2" attributes="0"/>
               </Group>
-              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="1" attributes="0">
-                  <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTB_PC1" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" attributes="0">
-                              <Component id="jLIP_PC1" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC1" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="jTB_PC6" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLIP_PC6" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC6" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTB_PC2" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLIP_PC2" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC2" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="103" groupAlignment="1" attributes="0">
-                              <Component id="jTB_PC7" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Group type="102" alignment="0" attributes="0">
-                                  <Component id="jLIP_PC7" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="jLS_PC7" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTB_PC3" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLIP_PC3" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC3" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                  </Group>
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="jTB_PC8" alignment="0" min="-2" max="-2" attributes="0"/>
-                      <Group type="102" alignment="0" attributes="0">
-                          <Component id="jLIP_PC8" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace max="-2" attributes="0"/>
-                          <Component id="jLS_PC8" min="-2" max="-2" attributes="0"/>
-                      </Group>
-                  </Group>
-              </Group>
-              <EmptySpace max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTB_PC4" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLIP_PC4" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC4" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTB_PC5" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLIP_PC5" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC5" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                  </Group>
-                  <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTB_PC9" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLIP_PC9" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC9" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTB_PC10" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLIP_PC10" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jLS_PC10" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                  </Group>
-              </Group>
-              <EmptySpace max="32767" attributes="0"/>
+              <EmptySpace type="unrelated" pref="18" max="32767" attributes="0"/>
               <Component id="jScrollPane1" min="-2" pref="194" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
           </Group>
@@ -363,189 +198,6 @@
         <Property name="selectionStart" type="int" value="3"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC1">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC1"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC1">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC1">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC2">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC2"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC2">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC2">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC3">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC3"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC3">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC3">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC4">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC4"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC4">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC4">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC5">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC5"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC5">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC5">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC6">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC6"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-      <Events>
-        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jTB_PC6MouseClicked"/>
-      </Events>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC6">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC6">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC7">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC7"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC7">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC7">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC8">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC8"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC8">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC8">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC9">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC9"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC9">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC9">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="jTB_PC10">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="PC10"/>
-        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-          <Dimension value="[60, 60]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLIP_PC10">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="IP         :"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLS_PC10">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Status  :"/>
-      </Properties>
-    </Component>
     <Container class="javax.swing.JScrollPane" name="jScrollPane1">
       <AuxValues>
         <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
@@ -588,5 +240,15 @@
         </Component>
       </SubComponents>
     </Container>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Events>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="jTextField1KeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="RTO time"/>
+      </Properties>
+    </Component>
   </SubComponents>
 </Form>
